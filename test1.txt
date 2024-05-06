@@ -1,4 +1,4 @@
 This is test 1.
 This line from remote repository.
 This line from local repo and create new branch for marge...
-Change from feature2  branch
+This line from feature1
