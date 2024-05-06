@@ -2,3 +2,4 @@ This is test 1.
 This line from remote repository.
 This line from local repo and create new branch for marge...
 This line from feature1
+This line from feature3
